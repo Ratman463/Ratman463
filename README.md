@@ -12,10 +12,10 @@
 
 ## 🧑‍💻 About Me
 
-- There was a 🐭 man, and he went a 🐭 mile,
-- He found a 🐭 sixpence against a 🐭 stile;
-- He bought a 🐭 cat, which caught a 🐭🐭,
-- And they all liv'd together in a little 🐭 house.
+There was a 🐭 man, and he went a 🐭 mile,
+He found a 🐭 sixpence against a 🐭 stile;
+He bought a 🐭 cat, which caught a 🐭 rat,
+And they all liv'd together in a little 🐭 house.
 ---
 
 ## 🛠️ Tech Stack
