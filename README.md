@@ -10,6 +10,11 @@
 
 ---
 
+## 🧑‍💻 Website
+- dsh / claude plugins: https://ratapi.com/
+- applechan game: https://game.ratapi.com/
+- 奶龙站: https://xn--yus254n.world/
+
 ## 🧑‍💻 About Me
 
 - There was a 🐭 man, and he went a 🐭 mile,
